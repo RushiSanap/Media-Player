@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/Asset 1.png</file>
+        <file>icons/Asset 2.png</file>
+        <file>icons/Asset 3.png</file>
+        <file>icons/Asset 4.png</file>
+        <file>icons/Asset 5.png</file>
+        <file>icons/open-file-folder-emoji.png</file>
+        <file>icons/600px-Speaker_Icon.svg.png</file>
+        <file>icons/options-1767904-1502157.png</file>
+        <file>icons/4308765.jpg</file>
+        <file>icons/bg1.png</file>
+        <file>icons/27216.jpg</file>
+        <file>icons/Next.png</file>
+        <file>icons/Previous.png</file>
+    </qresource>
+</RCC>
